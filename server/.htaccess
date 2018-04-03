@@ -1,0 +1,4 @@
+Authtype Basic
+AuthName "ShareMyIP"
+AuthUserFile %REPLACE_ME_FULL_PATH_NO_SYMLINKS%
+Require valid-user
